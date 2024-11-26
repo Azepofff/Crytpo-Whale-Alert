@@ -1,1 +1,1 @@
-# Crytpo-Whale-Alert. 
+# Crytpo-Whale-Alert
